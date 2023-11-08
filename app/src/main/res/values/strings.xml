@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My FirstApp2</string>
+    <!-- Couleur de fond de l'EditText -->
+    <color name="edit_text_bg">#E0E0E0</color>
+
+    <!-- Couleur de fond du bouton arrondi -->
+    <color name="rounded_button_bg">#007ACC</color>
+
+    <!-- Couleur du texte du bouton -->
+    <color name="button_text_color">#FFFFFF</color>
+</resources>
